@@ -1,6 +1,8 @@
 # AnimalNames
 
-TODO: Write a gem description
+This gem allows the user to pass in a letter,
+and it outputs to the console, an animal name 
+that starts with that letter.
 
 ## Installation
 
@@ -18,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Syntax: AnimalNames.animal(letter) 
+
+where letter is a 
+
+Example:
+	AnimalNames.animal('C') will execute the command: puts 'Cat'
 
 ## Contributing
 
